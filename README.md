@@ -1,4 +1,4 @@
-# Fake Product Review Detection Using Machine Learning
+# Fake Product Review Detection
 
 This project uses machine learning techniques to classify product reviews as **genuine (good)** or **fake (claiming the product is not authentic)**.
 
